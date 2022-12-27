@@ -1,0 +1,16 @@
+99.62.246.132
+
+
+Please note your unique ID for future exercises in this module:
+362769
+
+Your resource group name is:
+learn-3d64156a-42dd-4689-8d74-7975805788af
+
+Your resources were deployed in the following region:
+westus
+
+Your server name is:
+bus-server362769
+cloudadmin
+Rot@ry1986
