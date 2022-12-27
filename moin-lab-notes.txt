@@ -14,3 +14,5 @@ Your server name is:
 bus-server362769
 cloudadmin
 Rot@ry1986
+
+Server=bus-server362769.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=Rot@ry1986;Connection Timeout=30;
